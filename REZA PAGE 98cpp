@@ -1,0 +1,27 @@
+//akan dihitung gaji yang diterima pegawai berdasarkan jumlah hari
+//kerja dan jumlah jam lembur dengan tarif tertentu
+//DEKLARASI
+char nama[20]
+int jhr_kerja[20]
+int jjam_lembur
+float upah
+float uang_lembur
+float trans_lembur
+float gaji
+//DESKRIPSI
+{
+read(nama)
+read(jhr_kerja)
+read(jjam_lembur)
+upah = jhr_kerja * 30000
+uang_lembur = jjam_lembur * 5000
+if (jjam_lembur = 0.1 * uang_lembur
+trans_lembur = 0.1 * uang_lembur
+else
+trans_lembur = 0
+gaji = upah + uang_lembur + trans_lembur
+write(upah)
+write(uang_lembur)
+write(trans_lembur)
+write(gaji)
+}
