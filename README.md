@@ -1,6 +1,6 @@
 <h3>
   <p>Author : Reza Mahendra</p>
-  <p>dosen : iskandar sulaini,.m.kom</p>
+  <p>dosen : Iskandar Sulaini,.M.Kom</p>
   <p>Alamat : Pagar Alam, Sumatra Selatan</p>
 </h3>
 
