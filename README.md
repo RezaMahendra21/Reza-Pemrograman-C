@@ -1,7 +1,6 @@
 <h3>
   <p>Author : Reza Mahendra</p>
   <p>dosen : iskandar sulaini,.m.kom</p>
-  <p>mata kulian : pemrograman dasar</p>
   <p>Alamat : Pagar Alam, Sumatra Selatan</p>
 </h3>
 
